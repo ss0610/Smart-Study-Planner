@@ -1,0 +1,12 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node.js / React
+node_modules/
+build/
+dist/
+.env
